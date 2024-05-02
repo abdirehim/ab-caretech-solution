@@ -577,6 +577,10 @@ li.drop {
   .section{
     padding: 20px 40px;
   }
+
+  #home h1{
+    font-size: x-large;
+  }
   .g1, .g2 {
     display: flex;
     flex-wrap: wrap;
